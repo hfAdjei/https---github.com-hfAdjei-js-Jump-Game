@@ -1,4 +1,4 @@
-# js-Jump-Game
+# JavaScript Jump Game
 A basic JavaScript game with a simple jump loop.
 
 ---
